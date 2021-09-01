@@ -1,0 +1,9 @@
+"C:\Users\melih\OneDrive\Desktop\zipfile\toZip\a" "y"
+
+"C:\Users\melih\OneDrive\Desktop\zipfile\toZip\log" "exp"
+
+"C:\Users\melih\OneDrive\Desktop\zipfile\toZip\log2" "exp"
+
+"C:\Users\melih\OneDrive\Desktop\zipfile\toZip\patch melihcan ender kadir" "n"
+
+"C:\Users\melih\OneDrive\Desktop\zipfile\toZip\test" "n"
